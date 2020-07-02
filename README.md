@@ -5,4 +5,4 @@
 
 ## Lista completa de exercícios
 
-A Lista completa está no site da[Python.org br](https://wiki.python.org.br/ListaDeExercicios)
+A Lista completa está no site da [Python.org br](https://wiki.python.org.br/ListaDeExercicios)
